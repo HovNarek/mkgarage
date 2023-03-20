@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e81409b9-c6d4-429e-80da-5fc37522d86b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/credits-photos.html" beforeDir="false" afterPath="$PROJECT_DIR$/credits-photos/credits-photos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diagnostic.html" beforeDir="false" afterPath="$PROJECT_DIR$/diagnostic/diagnostic.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entretien.html" beforeDir="false" afterPath="$PROJECT_DIR$/entretien/entretien.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mentions-legales.html" beforeDir="false" afterPath="$PROJECT_DIR$/mentions-legales/mentions-legales.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nos-occasions.html" beforeDir="false" afterPath="$PROJECT_DIR$/nos-occasions/nos-occasions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reparation.html" beforeDir="false" afterPath="$PROJECT_DIR$/reparation/reparation.html" afterDir="false" />
-    </list>
+    <list default="true" id="e81409b9-c6d4-429e-80da-5fc37522d86b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1679308712105</updated>
       <workItem from="1679308713895" duration="71000" />
-      <workItem from="1679308910792" duration="12991000" />
+      <workItem from="1679308910792" duration="13315000" />
     </task>
     <servers />
   </component>
